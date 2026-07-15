@@ -36,7 +36,7 @@ It is designed for hotel management to monitor revenue, occupancy, booking trend
 
 👉 **Open Dashboard**
 
-**https://YOUR-LOOKER-STUDIO-LINK**
+**[https://YOUR-LOOKER-STUDIO-LINK](https://datastudio.google.com/reporting/7b083b24-a0d4-49ab-a698-d1327a3b7fbc)**
 
 ---
 
