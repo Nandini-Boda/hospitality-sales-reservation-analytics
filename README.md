@@ -94,3 +94,17 @@ I independently designed and developed this automated reporting solution, includ
 - Looker Studio dashboard development
 - Business logic implementation
 - Executive reporting design
+
+# 🏨 Hospitality Sales & Reservation Analytics
+
+Enterprise Business Intelligence Solution for Hotel Sales & Reservations
+
+<p align="center">
+
+<a href="https://datastudio.google.com/reporting/7b083b24-a0d4-49ab-a698-d1327a3b7fbc" target="_blank">
+
+<img src="https://img.shields.io/badge/🚀%20View-Live%20Dashboard-blue?style=for-the-badge">
+
+</a>
+
+</p>
