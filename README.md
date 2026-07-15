@@ -49,6 +49,10 @@ The dashboard was developed to help hotel management:
 
 # 📸 Dashboard Preview
 
-> **Revenue Overview Dashboard**
+### 📈 Revenue Overview Dashboard
 
-*(Dashboard preview image will be added here.)*
+> Executive overview of hotel revenue, occupancy, ADR, booking performance, and key sales KPIs.
+
+![Revenue Overview](screenshots/01-Revenue-Overview)
+
+---
