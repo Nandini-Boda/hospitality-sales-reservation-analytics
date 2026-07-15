@@ -44,3 +44,11 @@ The dashboard was developed to help hotel management:
 - Monitor lead generation and conversion.
 - Compare business performance across different properties.
 - Support faster data-driven business decisions through automated reporting.
+
+- ---
+
+# 📸 Dashboard Preview
+
+> **Revenue Overview Dashboard**
+
+*(Dashboard preview image will be added here.)*
