@@ -6,9 +6,11 @@
 
 ## 📖 Overview
 
-This project demonstrates an end-to-end automated reporting solution for hotel sales and reservation analytics.
+Hotels generate thousands of reservation transactions every day across multiple properties. Manual reporting makes it difficult for management to monitor occupancy, revenue, booking performance, and sales trends in real time.
 
-Data is automatically extracted from the Property Management System (PMS) into Google Sheets using Google Apps Script and visualized in Looker Studio for daily business reporting.
+This project demonstrates an automated sales and reservation analytics solution that extracts data from the Property Management System (PMS) using Google Apps Script, stores it in Google Sheets, and visualizes business KPIs in Looker Studio.
+
+The solution provides management with interactive dashboards for revenue monitoring, booking analysis, occupancy tracking, lead management, and OTA performance.
 
 ---
 
