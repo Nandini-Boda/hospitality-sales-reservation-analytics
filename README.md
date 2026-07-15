@@ -56,3 +56,41 @@ The dashboard was developed to help hotel management:
 ![Revenue Overview](screenshots/01-Revenue-Overview)
 
 ---
+
+
+## 🎯 Who is this dashboard for?
+
+This dashboard is designed for:
+
+- General Managers
+- Revenue Managers
+- Sales Teams
+- Property Managers
+- Hotel Executives
+
+It provides a centralized view of revenue, reservations, occupancy, booking channels, and business performance to support daily operational and strategic decisions.
+
+## 📊 Key Business Metrics
+
+| KPI | Description |
+|-----|-------------|
+| Revenue | Total room revenue generated |
+| ADR | Average Daily Rate |
+| Occupancy | Occupancy percentage |
+| Booking Value | Total reservation value |
+| RevPAR | Revenue Per Available Room |
+| OTA Revenue | Revenue from Online Travel Agencies |
+| Lead Conversion | Lead to booking conversion rate |
+| Target Achievement | Actual vs Target revenue |
+
+
+## 👨‍💼 My Contribution
+
+I independently designed and developed this automated reporting solution, including:
+
+- KPI framework design
+- Google Apps Script automation
+- Google Sheets data pipeline
+- Looker Studio dashboard development
+- Business logic implementation
+- Executive reporting design
