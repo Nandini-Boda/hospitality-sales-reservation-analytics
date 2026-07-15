@@ -16,6 +16,17 @@
 
 ---
 
+
+# 📸 Dashboard Preview
+
+### 📈 Revenue Overview Dashboard
+
+> Executive overview of hotel revenue, occupancy, ADR, booking performance, and key sales KPIs.
+
+![Revenue Overview](screenshots/01-Revenue-Overview)
+
+- ---
+
 ## 📖 Overview
 
 Hotels generate thousands of reservation transactions every day across multiple properties. Manual reporting makes it difficult for management to monitor occupancy, revenue, booking performance, and sales trends in real time.
@@ -57,15 +68,7 @@ The dashboard was developed to help hotel management:
 - Compare business performance across different properties.
 - Support faster data-driven business decisions through automated reporting.
 
-- ---
 
-# 📸 Dashboard Preview
-
-### 📈 Revenue Overview Dashboard
-
-> Executive overview of hotel revenue, occupancy, ADR, booking performance, and key sales KPIs.
-
-![Revenue Overview](screenshots/01-Revenue-Overview)
 
 ---
 
