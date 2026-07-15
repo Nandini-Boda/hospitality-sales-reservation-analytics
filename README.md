@@ -13,8 +13,6 @@ This project demonstrates an automated sales and reservation analytics solution 
 The solution provides management with interactive dashboards for revenue monitoring, booking analysis, occupancy tracking, lead management, and OTA performance.
 
 ---
-
-<img width="435" height="328" alt="image" src="https://github.com/user-attachments/assets/829afd5a-63d9-4d5b-9d24-33fa93fb4a79" />
               Hotel PMS
                   │
                   ▼
