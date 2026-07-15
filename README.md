@@ -1,6 +1,5 @@
 # 🏨 Hospitality Sales & Reservation Analytics
 
-Enterprise Business Intelligence Solution for Hotel Sales & Reservations
 
 <p align="center">
 
@@ -12,7 +11,6 @@ Enterprise Business Intelligence Solution for Hotel Sales & Reservations
 
 </p>
 
-# 🏨 Hospitality Sales & Reservation Analytics
 
 > Automated hospitality sales and reservation analytics solution built using **Google Apps Script**, **Google Sheets**, and **Looker Studio**.
 
