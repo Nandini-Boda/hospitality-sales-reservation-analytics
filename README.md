@@ -11,12 +11,5 @@ This project demonstrates an end-to-end automated reporting solution for hotel s
 Data is automatically extracted from the Property Management System (PMS) into Google Sheets using Google Apps Script and visualized in Looker Studio for daily business reporting.
 
 ---
-🛠️ Technology Stack	
-	
-Category	Technology
-Dashboard	Looker Studio
-Automation	Google Apps Script
-Data Storage	Google Sheets
-Source System	Hotel Property Management System (PMS)
-Domain	Hospitality Analytics
+
 <img width="435" height="328" alt="image" src="https://github.com/user-attachments/assets/829afd5a-63d9-4d5b-9d24-33fa93fb4a79" />
