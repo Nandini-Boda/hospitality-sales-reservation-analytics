@@ -29,3 +29,18 @@ The solution provides management with interactive dashboards for revenue monitor
                   │
                   ▼
         Executive Decision Making
+
+
+
+---
+
+# 🎯 Business Objectives
+
+The dashboard was developed to help hotel management:
+
+- Monitor daily revenue performance across all properties.
+- Track occupancy, ADR, and booking trends.
+- Analyze booking sources and OTA contribution.
+- Monitor lead generation and conversion.
+- Compare business performance across different properties.
+- Support faster data-driven business decisions through automated reporting.
