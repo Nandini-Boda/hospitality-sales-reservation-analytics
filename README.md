@@ -15,3 +15,19 @@ The solution provides management with interactive dashboards for revenue monitor
 ---
 
 <img width="435" height="328" alt="image" src="https://github.com/user-attachments/assets/829afd5a-63d9-4d5b-9d24-33fa93fb4a79" />
+              Hotel PMS
+                  │
+                  ▼
+      Google Apps Script Automation
+                  │
+                  ▼
+          Google Sheets Database
+                  │
+                  ▼
+         Data Validation & Cleaning
+                  │
+                  ▼
+          Looker Studio Dashboard
+                  │
+                  ▼
+        Executive Decision Making
